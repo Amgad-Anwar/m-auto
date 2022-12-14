@@ -1,0 +1,701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc loan calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 07:30-0400\n"
+"PO-Revision-Date: 2021-09-25 07:31-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-loan-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.LOAN-WIDGET.js\n"
+
+#: en/calculator.gui.php:20 en/calculator.gui.php:22
+msgid "Loan Calculator"
+msgstr "Darlehens-Rechner"
+
+#: en/calculator.gui.php:42 en/calculator.gui.php:169 en/calculator.gui.php:287
+#: en/calculator.gui.php:405
+msgid "click for more features"
+msgstr "klicken Sie für weitere Funktionen"
+
+#: en/calculator.gui.php:50 en/calculator.gui.php:174 en/calculator.gui.php:291
+#: en/calculator.gui.php:410
+msgid "Loan Amount?"
+msgstr "Darlehensbetrag?"
+
+#: en/calculator.gui.php:58 en/calculator.gui.php:182
+msgid "Months? (#)"
+msgstr "Monate?"
+
+#: en/calculator.gui.php:66
+msgid "Rate?"
+msgstr "Anfänglicher Zinssatz:"
+
+#: en/calculator.gui.php:74 en/calculator.gui.php:315 en/calculator.gui.php:432
+msgid "Payment Method?"
+msgstr "Zahlungsmethode?"
+
+#: en/calculator.gui.php:90
+msgid "Payment?"
+msgstr "Bezahlung?"
+
+#: en/calculator.gui.php:97 en/calculator.gui.php:217 en/calculator.gui.php:334
+#: en/calculator.gui.php:451 js/interface.LOAN-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Gesamtverzinsung"
+
+#: en/calculator.gui.php:104 en/calculator.gui.php:224
+#: en/calculator.gui.php:341
+msgid "Total P & I"
+msgstr "P & I insgesamt"
+
+#: en/calculator.gui.php:117
+msgid "calculate"
+msgstr "Berechnen"
+
+#: en/calculator.gui.php:117
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:118
+msgid "clear"
+msgstr "löschen"
+
+#: en/calculator.gui.php:118
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:119
+msgid "print"
+msgstr "Drucken"
+
+#: en/calculator.gui.php:119
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:120
+msgid "help"
+msgstr "Hilfe"
+
+#: en/calculator.gui.php:120
+msgid "H"
+msgstr "H"
+
+#: en/calculator.gui.php:123
+msgid "schedule"
+msgstr "Zeitplan"
+
+#: en/calculator.gui.php:123
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:124
+msgid "charts"
+msgstr "Charts"
+
+#: en/calculator.gui.php:124
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:134 en/calculator.gui.php:253
+#: en/calculator.gui.php:367 en/calculator.gui.php:484
+msgid "click to change currency or date format"
+msgstr "klicken Sie, um die Währung oder das Datumsformat zu ändern"
+
+#: en/calculator.gui.php:142 en/calculator.gui.php:261
+#: en/calculator.gui.php:375 en/calculator.gui.php:491
+msgid "Make me smaller."
+msgstr "Mach mich kleiner."
+
+#: en/calculator.gui.php:143 en/calculator.gui.php:262
+#: en/calculator.gui.php:376 en/calculator.gui.php:492
+msgid "Original Size"
+msgstr "Original Größe"
+
+#: en/calculator.gui.php:144 en/calculator.gui.php:263
+#: en/calculator.gui.php:377 en/calculator.gui.php:493
+msgid "Make me larger."
+msgstr "Mach mich größer."
+
+#: en/calculator.gui.php:190
+msgid "Interest Rate?"
+msgstr "Anfänglicher Zinssatz?"
+
+#: en/calculator.gui.php:198
+msgid "Pmt. Method?"
+msgstr "Pmt. Methode?"
+
+#: en/calculator.gui.php:210 js/interface.LOAN-WIDGET.js:14
+msgid "Payment"
+msgstr "Zahlung"
+
+#: en/calculator.gui.php:239 en/calculator.gui.php:353
+#: en/calculator.gui.php:471
+msgid "Calc"
+msgstr "Berechnen"
+
+#: en/calculator.gui.php:240 en/calculator.gui.php:354
+#: en/calculator.gui.php:472
+msgid "Clear"
+msgstr "Klar"
+
+#: en/calculator.gui.php:241 en/calculator.gui.php:355
+#: en/calculator.gui.php:473
+msgid "Print"
+msgstr "Drucken"
+
+#: en/calculator.gui.php:242 en/calculator.gui.php:356
+#: en/calculator.gui.php:474
+msgid "Help"
+msgstr "Hilfe"
+
+#: en/calculator.gui.php:245 en/calculator.gui.php:359
+msgid "Schedule"
+msgstr "Plan"
+
+#: en/calculator.gui.php:246 en/calculator.gui.php:360
+#: en/calculator.gui.php:478
+msgid "Charts"
+msgstr "Charts"
+
+#: en/calculator.gui.php:299
+msgid "Number of Months?"
+msgstr "Anzahl der Monate?"
+
+#: en/calculator.gui.php:307 en/calculator.gui.php:425
+msgid "Annual Interest Rate?"
+msgstr "Jährlicher Zinssatz?"
+
+#: en/calculator.gui.php:327 en/calculator.gui.php:444
+msgid "Monthly Payment"
+msgstr "Monatliche Zahlung"
+
+#: en/calculator.gui.php:417
+msgid "Number of Months? (#)"
+msgstr "Anzahl der Monate? (#):"
+
+#: en/calculator.gui.php:458
+msgid "Total Principal & Interest"
+msgstr "Gesamtbetrag von Kapital und Zinsen"
+
+#: en/calculator.gui.php:477 js/interface.LOAN-WIDGET.js:14
+msgid "Payment Schedule"
+msgstr "Zahlungszeitplan"
+
+#: en/calculator.gui.php:514
+msgid "Loan Calculator Help..."
+msgstr "Autokredit-Rechner Hilfe"
+
+#: en/calculator.gui.php:516
+msgid ""
+"Using the calculator is straight forward. User enters a \"loan amount\", "
+"\"number of months\", \"annual interest rate\". The calculator calculates "
+"the number of monthly payments."
+msgstr ""
+"Die Benutzung des Rechners ist einfach. Der Benutzer gibt den \"Kreditbetrag"
+"\", die \"Anzahl der Monate\" und den \"jährlichen Zinssatz\" ein. Der "
+"Rechner errechnet die Anzahl der monatlichen Zahlungen."
+
+#: en/calculator.gui.php:517
+msgid ""
+"The \"Payment Method\" determines when the first payment is due. With the "
+"default selection, \"End-of-Period\", the first payment will be due one "
+"month after the loan is made. If \"Start-of-Period\" is selected, then the "
+"first payment will be due on the loan date."
+msgstr ""
+"Die \"Zahlungsmethode\" bestimmt, wann die erste Zahlung fällig ist. Bei der "
+"Standardeinstellung \"Ende des Zeitraums\" ist die erste Zahlung einen Monat "
+"nach Abschluss des Darlehens fällig. Wenn Sie \"Beginn des Zeitraums\" "
+"wählen, wird die erste Zahlung am Tag der Ausleihe fällig."
+
+#: en/calculator.gui.php:518
+msgid "The term (duration) of the loan is expressed as a number of months."
+msgstr "Die Laufzeit (Duration) des Kredits wird in Monaten angegeben."
+
+#: en/calculator.gui.php:520
+msgid "60 months = &nbsp;5 years"
+msgstr "60 Monate = 5 Jahre"
+
+#: en/calculator.gui.php:521
+msgid "120 months = 10 years"
+msgstr "120 Monate = 10 Jahre"
+
+#: en/calculator.gui.php:522
+msgid "180 months = 15 years"
+msgstr "180 Monate = 15 Jahre"
+
+#: en/calculator.gui.php:523
+msgid "240 months = 20 years"
+msgstr "240 Monate = 20 Jahre"
+
+#: en/calculator.gui.php:524
+msgid "360 months = 30 years"
+msgstr "360 Monate = 30 Jahre"
+
+#: en/calculator.gui.php:526
+msgid ""
+"Need more options including the ability to solve for other unknowns, change "
+"payment / compounding frequency and the ability to print an amortization "
+"schedule? Please visit"
+msgstr ""
+"Benötigen Sie mehr Optionen, z. B. die Möglichkeit, für andere Unbekannte zu "
+"lösen, die Häufigkeit von Zahlungen und Aufzinsungen zu ändern und einen "
+"Tilgungsplan zu drucken? Bitte besuchen Sie"
+
+#: en/calculator.gui.php:550
+msgid "Currency and Date Conventions"
+msgstr "Währungs- und Datumskonventionen"
+
+#: en/calculator.gui.php:698
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Alle Rechner werden sich Ihre Wahl merken. Sie können sie auch jederzeit "
+"ändern."
+
+#: en/calculator.gui.php:699
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Wenn Sie auf <b>\"Änderungen speichern\"</b> klicken, wird der Rechner neu "
+"geladen. Ihre Änderungen gehen dann verloren."
+
+#: en/calculator.gui.php:702
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: en/calculator.gui.php:703
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: fc-loan-calculator.php:180
+msgid "Please enter a valid number for \"sc_loan_amt.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"sc_loan_amt\" ein."
+
+#: fc-loan-calculator.php:184
+msgid "Please enter a valid number for \"sc_n_months.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"sc_n_months\" ein."
+
+#: fc-loan-calculator.php:188
+msgid "Please enter a valid number for \"sc_rate.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"sc_rate\" ein."
+
+#: fc-loan-calculator.php:226 fc-loan-calculator.php:229
+#: fc-loan-calculator.php:232 fc-loan-calculator.php:502
+#: fc-loan-calculator.php:658 fc-loan-calculator.php:668
+msgid "No"
+msgstr "Nein"
+
+#: fc-loan-calculator.php:248
+msgid "Please enter a valid number for \"op_loan_amt.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"op_loan_amt\" ein."
+
+#: fc-loan-calculator.php:252
+msgid "Please enter a valid number for \"op_n_months.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"op_n_months\" ein."
+
+#: fc-loan-calculator.php:256
+msgid "Please enter a valid number for \"op_rate.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"op_rate\" ein."
+
+#: fc-loan-calculator.php:426
+msgid "Please enter a valid number for \"Default loan amount.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"Default loan amount\" ein"
+
+#: fc-loan-calculator.php:430
+msgid "Please enter a valid number for \"Default number of months:.\""
+msgstr ""
+"Bitte geben Sie eine gültige Zahl für \"Standardanzahl der Monate:\" ein"
+
+#: fc-loan-calculator.php:434
+msgid "Please enter a valid number for \"Default interest rate.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"Standardzinssatz\" ein"
+
+#: fc-loan-calculator.php:439
+msgid "Please enter a valid value for \"Default Currency.\""
+msgstr "Bitte geben Sie einen gültigen Wert für \"Standardwährung\" ein"
+
+#: fc-loan-calculator.php:443
+msgid "Please enter a valid number for \"Default Date Format.\""
+msgstr "Bitte geben Sie eine gültige Zahl für \"Standard-Datumsformat\" ein"
+
+#: fc-loan-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Die Größe des Widgets?"
+
+#: fc-loan-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Winzig (maximale Breite = 150px)"
+
+#: fc-loan-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Klein (maximale Breite = 290px)"
+
+#: fc-loan-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Mittel (maximale Breite = 340px)"
+
+#: fc-loan-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Groß (maximale Breite = 440px)"
+
+#: fc-loan-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Benutzerdefinierte Formatvorlage laden?"
+
+#: fc-loan-calculator.php:503 fc-loan-calculator.php:659
+#: fc-loan-calculator.php:669
+msgid "Yes"
+msgstr "Ja"
+
+#: fc-loan-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Eine Standardwährung festlegen?"
+
+#: fc-loan-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Verwenden Sie die Browsereinstellungen des Besuchers, um die Währung "
+"einzustellen - nicht überschreiben."
+
+#: fc-loan-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Eine Konvention für das Datumsformat festlegen?"
+
+#: fc-loan-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Verwenden Sie die Einstellungen des Browsers des Besuchers, um das "
+"Datumsformat festzulegen - nicht überschreiben."
+
+#: fc-loan-calculator.php:656
+msgid "Hide the resize buttons?:"
+msgstr "Die Schaltflächen zur Größenänderung ausblenden?"
+
+#: fc-loan-calculator.php:666
+msgid "Allow plugin to add a link to financial-calculators.com?:"
+msgstr ""
+"Erlaubt das Plugin das Hinzufügen eines Links zu financial-calculators.com?"
+
+#: fc-loan-calculator.php:678
+msgid "Add Your Brand Name:"
+msgstr "Ihren Markennamen hinzufügen"
+
+#: fc-loan-calculator.php:682
+msgid "Default loan amount:"
+msgstr "Ausgeschlagener Darlehensbetrag"
+
+#: fc-loan-calculator.php:683
+msgid "Default number of months:"
+msgstr "Standardanzahl von Monaten"
+
+#: fc-loan-calculator.php:686
+msgid "Default interest rate:"
+msgstr "Verzugszinssatz"
+
+#: fc-loan-calculator.php:688
+msgid "Enter only digits.<br>No formatting."
+msgstr "Nur Ziffern eingeben.<br>Keine Formatierung."
+
+#: fc-loan-calculator.php:712
+msgid "Loan Calculator by financial-calculators.com"
+msgstr "Darlehensrechner von financial-calculators.com"
+
+#: fc-loan-calculator.php:714
+msgid "FC Loan Calculator"
+msgstr "FC-Kredit-Rechner"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "en"
+msgstr "de"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Bitte verwende die Backspace-Taste zum Löschen."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Die Links-, Hoch- und Runter-Pfeiltasten sind deaktiviert. Genau wie die "
+"Pos1-, Ende- und Bild-Tasten."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Verwenden Sie die Rücktaste zum Löschen."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Wenn der Wert ausgewählt ist, einfach einen neuen Wert eingeben, um den "
+"vorherigen Wert zu überschreiben."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Wenn eine Zahl ausgewählt ist (Wert wird invers angezeigt), rechte "
+"Pfeiltaste verwenden, um die Auswahl zu löschen, ohne den Wert zu löschen. "
+"Dann die Backspace-Taste zum Bearbeiten."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"TIPP: Im Allgemeinen ist es am besten, die TAB- oder UMSCHALT-TAB-Tasten zu "
+"verwenden, um von einer Eingabe zur nächsten oder vorherigen Eingabe zu "
+"wechseln."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"TIPP 2: Im Allgemeinen ist es ineffizient, einen Wert zu bearbeiten. Da die "
+"Werte automatisch ausgewählt werden, geben Sie einfach die gewünschte Zahl "
+"ein."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Gib keine Tausendertrennzeichen ein."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Bei Verwendung der US-Norm, wäre dies das Komma.)"
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Ich mache das schon für dich!"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Es ist ein unbekannter Fehler bei der Datumsberechnung aufgetreten."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Bitte teilen Sie uns Ihre Eingaben und Einstellungen mit, damit wir das "
+"Problem beheben können. Wir danken Ihnen."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Das Datum ist ungültig - falsches Jahr."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Jan"
+msgstr "Jan"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Feb"
+msgstr "Feb"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Mar"
+msgstr "Mär"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Apr"
+msgstr "Apr"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "May"
+msgstr "Mai"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jun"
+msgstr "Jun"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jul"
+msgstr "Jul"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Aug"
+msgstr "Aug"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Sept"
+msgstr "Sept"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Oct"
+msgstr "Okt"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Nov"
+msgstr "Nov"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Dec"
+msgstr "Dez"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Fehler: Daten nicht in der richtigen Reihenfolge."
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Exception"
+msgstr "Ausnahme"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "aufgetreten beim Zugriff auf"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Invalid index"
+msgstr "Ungültiger Index"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Internal limit reached. Balance exceeds +/- 99 trillion."
+msgstr "Internes Limit erreicht. Saldo überschreitet +/- 99 Billionen."
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "YTD"
+msgstr "JbD"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Running Totals"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Normal"
+msgstr "Normal"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Your Personalized Loan Schedule"
+msgstr "Ihr individueller Darlehenszeitplan"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount decreased by"
+msgstr "Letzter Zahlungsbetrag verringert um"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "due to rounding"
+msgstr "aufgrund von Rundungen"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount increased by"
+msgstr "Letzter Zahlungsbetrag erhöht um"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Summary"
+msgstr "Darlehensübersicht"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Amount"
+msgstr "Darlehensbetrag"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Number of Payments"
+msgstr "Anzahl Zahlungen"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Annual Interest Rate"
+msgstr "Effektiver Jahreszins"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Periodic Payment"
+msgstr "Regelmäßige Zahlung"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Date"
+msgstr "Datum des Darlehens"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "1st Payment Due"
+msgstr "1. Zahlung fällig"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Payment Frequency"
+msgstr "Zahlungsfrequenz"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Last Payment Due"
+msgstr "Letzte fällige Zahlung"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total Interest Due"
+msgstr "Monatlich fällige Gesamtzinsen"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total All Payments"
+msgstr "Summe aller Zahlungen"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Year"
+msgstr "Jahr"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Date"
+msgstr "Datum"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Interest"
+msgstr "Zinsen"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Principal"
+msgstr "Tilgungsrate"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Balance"
+msgstr "Saldo"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Calculation method: Normal"
+msgstr "Berechnungsmethode: Normal"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal"
+msgstr "Gesamtes Kapital"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Pct. of Total Payments"
+msgstr "Anteil an den Gesamtzahlungen"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Annual Principal and Interest Totals"
+msgstr "Jährlicher Gesamtbetrag für Kapital und Zinsen"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Accumulated Principal and Interest with Remaining Balance"
+msgstr "Aufgelaufene Kapitalbeträge und Zinsen mit Restsaldo"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal and Interest"
+msgstr "Gesamtbetrag von Kapital und Zinsen"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Loan"
+msgstr "Darlehen"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "There are too many unknown values."
+msgstr "Es gibt zu viele unbekannte Werte."
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid "Only one value may be \"0.\""
+msgstr "Nur ein Wert darf \"0\" sein"
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid ""
+"Enter \"Loan Amount\", \"Number of Payments\" and \"Annual Interest Rate\"."
+msgstr ""
+"Geben Sie \"Darlehensbetrag\", \"Anzahl der Zahlungen\" und \"Jahreszinssatz"
+"\" ein."

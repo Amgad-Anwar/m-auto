@@ -1,0 +1,16 @@
+.redux-sidebar .redux-group-menu li.hasSubSections.activeChild a .extraIconSubsections {
+	display: block;
+}
+.redux-sidebar .redux-group-menu li.hasSubSections.activeChild a .extraIconSubsections i::before {
+	content: "\f131";
+	color: #fff;
+}
+
+#info-vehicle_detail_mobile_layout_sections_notice.redux-info-field .redux-info-desc .redux-info-desc-title {
+	margin-bottom: 5px;
+}
+#info-vehicle_detail_mobile_layout_sections_notice.redux-info-field .redux-info-desc ul {
+	margin: 0;
+	list-style: inherit;
+	padding-left: 15px;
+}

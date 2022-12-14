@@ -1,0 +1,7 @@
+.elementor-control.elementor-control-type-pgs_select_image .elementor-control-field {
+	flex-wrap: wrap;
+}
+.elementor-control.elementor-control-type-pgs_select_image .elementor-control-field .elementor-control-input-preview-wrapper {
+	width: 100%;
+	margin-top: 10px;
+}

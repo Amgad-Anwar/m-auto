@@ -1,0 +1,216 @@
+{
+    "translation-revision-date": "2021-09-25 07:38-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.LOAN-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "fr_FR",
+                "plural-forms": "nplurals=2; plural=(n > 1);"
+            },
+            "Total Interest": [
+                "Total des int\u00e9r\u00eats"
+            ],
+            "Payment": [
+                "Paiement"
+            ],
+            "Payment Schedule": [
+                "Calendrier de paiements"
+            ],
+            "en": [
+                "fr"
+            ],
+            "Please use the backspace key to delete.": [
+                "Veuillez utiliser la touche d'effacement pour supprimer."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "Les touches fl\u00e9ch\u00e9es gauche, haut et bas sont d\u00e9sactiv\u00e9es. De m\u00eame que les touches home, end, pgup et pgdn."
+            ],
+            "Use backspace to delete.": [
+                "Utilisez le retour arri\u00e8re pour supprimer."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Si la valeur est s\u00e9lectionn\u00e9e, il suffit de commencer \u00e0 taper la nouvelle valeur pour effacer la valeur pr\u00e9c\u00e9dente."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Lorsqu'un nombre est s\u00e9lectionn\u00e9 (valeur affich\u00e9e en inverse), utilisez la touche fl\u00e9ch\u00e9e droite pour effacer la s\u00e9lection sans effacer la valeur. Ensuite, revenez en arri\u00e8re pour modifier."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "CONSEIL : En g\u00e9n\u00e9ral, il est pr\u00e9f\u00e9rable d'utiliser les touches TAB ou SHIFT-TAB pour passer d'une entr\u00e9e \u00e0 la suivante ou \u00e0 la pr\u00e9c\u00e9dente."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "ASTUCE 2 : En g\u00e9n\u00e9ral, l'\u00e9dition d'une valeur est inefficace. Comme les valeurs sont s\u00e9lectionn\u00e9es automatiquement, il suffit de taper le nombre que vous voulez."
+            ],
+            "Do not type the thousand separator character.": [
+                "Ne tapez pas le caract\u00e8re s\u00e9parateur de milliers."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Si l'on utilise la convention am\u00e9ricaine, ce serait la virgule)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "Je suis assez intelligent pour les saisir pour vous !"
+            ],
+            "An unknown date calculation error occurred.": [
+                "Une erreur de calcul de date inconnue s'est produite."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "Veuillez nous fournir vos donn\u00e9es et param\u00e8tres afin que nous puissions r\u00e9soudre ce probl\u00e8me. Merci."
+            ],
+            "Date is not valid - bad year.": [
+                "La date n'est pas valide - mauvaise ann\u00e9e."
+            ],
+            "Jan": [
+                "Jan"
+            ],
+            "Feb": [
+                "F\u00e9v"
+            ],
+            "Mar": [
+                "Mar"
+            ],
+            "Apr": [
+                "Avr"
+            ],
+            "May": [
+                "Mai"
+            ],
+            "Jun": [
+                "Juin"
+            ],
+            "Jul": [
+                "Juil"
+            ],
+            "Aug": [
+                "Ao\u00fbt"
+            ],
+            "Sept": [
+                "Sept"
+            ],
+            "Oct": [
+                "Oct"
+            ],
+            "Nov": [
+                "Nov"
+            ],
+            "Dec": [
+                "D\u00e9c"
+            ],
+            "Error: dates out of sequence.": [
+                "Erreur : les dates ne sont pas dans l'ordre."
+            ],
+            "Exception": [
+                "Exception"
+            ],
+            "occurred when accessing": [
+                "s'est produit lors de l'acc\u00e8s"
+            ],
+            "Invalid index": [
+                "Indice invalide"
+            ],
+            "Internal limit reached. Balance exceeds +\/- 99 trillion.": [
+                "Limite interne atteinte. Le solde d\u00e9passe +\/- 99 trillions."
+            ],
+            "YTD": [
+                "ann\u00e9e \u00e0 ce jour"
+            ],
+            "Running Totals": [
+                "Totaux en cours"
+            ],
+            "Normal": [
+                "Normal"
+            ],
+            "Your Personalized Loan Schedule": [
+                "Votre \u00e9ch\u00e9ancier de pr\u00eat personnalis\u00e9"
+            ],
+            "Last payment amount decreased by": [
+                "Le montant du dernier paiement a diminu\u00e9 de"
+            ],
+            "due to rounding": [
+                "en raison des arrondis"
+            ],
+            "Last payment amount increased by": [
+                "Le montant du dernier paiement a augment\u00e9 de"
+            ],
+            "Loan Summary": [
+                "R\u00e9sum\u00e9 de pr\u00eat"
+            ],
+            "Loan Amount": [
+                "Montant du pr\u00eat"
+            ],
+            "Number of Payments": [
+                "Nombre de paiements"
+            ],
+            "Annual Interest Rate": [
+                "Taux d'int\u00e9r\u00eat annuel"
+            ],
+            "Periodic Payment": [
+                "Paiement p\u00e9riodique"
+            ],
+            "Loan Date": [
+                "Date du pr\u00eat"
+            ],
+            "1st Payment Due": [
+                "1er paiement d\u00fb"
+            ],
+            "Payment Frequency": [
+                "Fr\u00e9quence de Paiements"
+            ],
+            "Last Payment Due": [
+                "Dernier paiement d\u00fb"
+            ],
+            "Total Interest Due": [
+                "Total des int\u00e9r\u00eats dus"
+            ],
+            "Total All Payments": [
+                "Total de tous les paiements"
+            ],
+            "Year": [
+                "Ann\u00e9e"
+            ],
+            "Date": [
+                "Date"
+            ],
+            "Interest": [
+                "Int\u00e9r\u00eat"
+            ],
+            "Principal": [
+                "Principal"
+            ],
+            "Balance": [
+                "Solde"
+            ],
+            "Calculation method: Normal": [
+                "M\u00e9thode de calcul : Normal"
+            ],
+            "Total Principal": [
+                "Total du capital"
+            ],
+            "Pct. of Total Payments": [
+                "Pct. du total des paiements"
+            ],
+            "Annual Principal and Interest Totals": [
+                "Total annuel du capital et des int\u00e9r\u00eats"
+            ],
+            "Accumulated Principal and Interest with Remaining Balance": [
+                "Principal et int\u00e9r\u00eats cumul\u00e9s avec solde restant \u00e0 payer"
+            ],
+            "Total Principal and Interest": [
+                "Total du principal et des int\u00e9r\u00eats"
+            ],
+            "Loan": [
+                "Pr\u00eat"
+            ],
+            "There are too many unknown values.": [
+                "Il y a trop de valeurs inconnues."
+            ],
+            "Only one value may be \"0.\"": [
+                "Une seule valeur peut \u00eatre \"0\""
+            ],
+            "Enter \"Loan Amount\", \"Number of Payments\" and \"Annual Interest Rate\".": [
+                "Entrez le \"Montant du pr\u00eat\", le \"Nombre de paiements\" et le \"Taux d'int\u00e9r\u00eat annuel\"."
+            ]
+        }
+    }
+}

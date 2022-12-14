@@ -1,0 +1,142 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer - PDF Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-08-20 16:25+0530\n"
+"PO-Revision-Date: 2017-03-27 17:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n:1,2;_nx:1,2;_n_noop:1,2;_nx_noop:1,2;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: .vscode\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: vendor-lib\n"
+"X-Poedit-SearchPathExcluded-4: includes/cpts/cores\n"
+"X-Poedit-SearchPathExcluded-5: includes/import_csv_xml/parsecsv.lib.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/pdf_generator/pdf\n"
+
+#: cardealer-pdf-generator.php:128
+msgid ""
+"PDF generated successfully. Generated PDF is assigned to the <strong>PDF "
+"Brochure</strong> field."
+msgstr ""
+
+#: cardealer-pdf-generator.php:139 inc/cpts/cars.php:94
+msgid "Download PDF"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:75 inc/cdpg-option-pages.php:12
+msgid "Vehicle Brochure Generator"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:79
+msgid "HTML Templates"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:98
+msgid "Templates Title"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:117
+msgid "Template Content"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:136
+msgid "Set Custom Margin ?"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:159
+msgid "Template Margin Top"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:162
+msgid "If Margin Top Is Not Set Then Default Value Set"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:187
+msgid "Template Margin Bottom"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:190
+msgid "If Margin Bottom Is Not Set Then Default Value Set"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:215
+msgid "Template Margin Left"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:218
+msgid "If Margin Left Is Not Set Then Default Value Set"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:243
+msgid "Template Margin Right"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:246
+msgid "If Margin Right Is Not Set Then Default Value Set"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:323
+msgid "Reset Templates"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:327
+msgid "Click the above button to reset all templates to default."
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:333
+msgid "Fields"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:346
+msgid "Display Fields"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:348
+msgid ""
+"Click the above button to display list of fields. Use this fields "
+"association to make or update the vehicle brochure template."
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:350
+msgid "Vehicle Fields Association"
+msgstr ""
+
+#: inc/cdpg-option-pages.php:13
+msgid "PDF Brochure Generator"
+msgstr ""
+
+#: inc/cpts/cars.php:17
+msgid "Brochure generator"
+msgstr ""
+
+#: inc/cpts/cars.php:56
+msgid "Choose Template"
+msgstr ""
+
+#: inc/cpts/cars.php:71
+msgid "Generate"
+msgstr ""
+
+#: inc/cpts/cars.php:122
+msgid "PDF generated successfully."
+msgstr ""
+
+#: inc/cpts/cars.php:130
+#, php-format
+msgid "Something went wrong. Caught exception: %s"
+msgstr ""

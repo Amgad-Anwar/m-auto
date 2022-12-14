@@ -1,0 +1,216 @@
+{
+    "translation-revision-date": "2021-09-25 07:48-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.LOAN-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "pt_PT",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Total Interest": [
+                "Interesse total"
+            ],
+            "Payment": [
+                "Pagamento"
+            ],
+            "Payment Schedule": [
+                "Calend\u00e1rio de pagamento"
+            ],
+            "en": [
+                "pt"
+            ],
+            "Please use the backspace key to delete.": [
+                "Por favor, utilize a tecla backspace para apagar."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "As teclas de seta para a esquerda, para cima e para baixo est\u00e3o desactivadas. Assim como as teclas home, end, pgup e pgdn."
+            ],
+            "Use backspace to delete.": [
+                "Utilizar o backspace para apagar."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Se o valor for seleccionado, basta come\u00e7ar a escrever um novo valor para limpar o valor anterior."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Quando um n\u00famero \u00e9 seleccionado (valor mostrado em inverso), usar a tecla de seta para a direita para limpar a selec\u00e7\u00e3o sem limpar o valor. Em seguida, retroceder para editar."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "DICA: Geralmente \u00e9 melhor usar as teclas TAB ou SHIFT-TAB para passar de uma entrada para a seguinte ou para a entrada anterior."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "DICA 2: Geralmente, a edi\u00e7\u00e3o de um valor \u00e9 ineficiente. Uma vez que os valores s\u00e3o seleccionados automaticamente, basta digitar o n\u00famero que deseja."
+            ],
+            "Do not type the thousand separator character.": [
+                "N\u00e3o digite o car\u00e1cter separador dos mil."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Se se utilizasse a conven\u00e7\u00e3o dos EUA, essa seria a v\u00edrgula)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "Sou suficientemente esperto para entrar neles por si!"
+            ],
+            "An unknown date calculation error occurred.": [
+                "Ocorreu um erro de c\u00e1lculo de data desconhecido."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "Por favor, forne\u00e7a-nos os seus dados e configura\u00e7\u00f5es para que possamos corrigir isto. Obrigado."
+            ],
+            "Date is not valid - bad year.": [
+                "A data n\u00e3o \u00e9 v\u00e1lida - mau ano."
+            ],
+            "Jan": [
+                "Jan"
+            ],
+            "Feb": [
+                "Fev"
+            ],
+            "Mar": [
+                "Mar"
+            ],
+            "Apr": [
+                "Abr"
+            ],
+            "May": [
+                "Maio"
+            ],
+            "Jun": [
+                "Jun"
+            ],
+            "Jul": [
+                "Jul"
+            ],
+            "Aug": [
+                "Ago"
+            ],
+            "Sept": [
+                "Set"
+            ],
+            "Oct": [
+                "Out"
+            ],
+            "Nov": [
+                "Nov"
+            ],
+            "Dec": [
+                "Dez"
+            ],
+            "Error: dates out of sequence.": [
+                "Erro: datas fora de sequ\u00eancia."
+            ],
+            "Exception": [
+                "Excep\u00e7\u00e3o"
+            ],
+            "occurred when accessing": [
+                "ocorreu ao aceder"
+            ],
+            "Invalid index": [
+                "\u00cdndice inv\u00e1lido"
+            ],
+            "Internal limit reached. Balance exceeds +\/- 99 trillion.": [
+                "Limite interno atingido. O saldo excede +\/- 99 trili\u00f5es."
+            ],
+            "YTD": [
+                "YTD"
+            ],
+            "Running Totals": [
+                "Totais de Funcionamento"
+            ],
+            "Normal": [
+                "Normal"
+            ],
+            "Your Personalized Loan Schedule": [
+                "O seu hor\u00e1rio de empr\u00e9stimo personalizado"
+            ],
+            "Last payment amount decreased by": [
+                "O montante do \u00faltimo pagamento diminuiu em"
+            ],
+            "due to rounding": [
+                "devido ao arredondamento"
+            ],
+            "Last payment amount increased by": [
+                "O montante do \u00faltimo pagamento aumentou em"
+            ],
+            "Loan Summary": [
+                "Resumo do empr\u00e9stimo"
+            ],
+            "Loan Amount": [
+                "MONTANTE DO EMPR\u00c9STIMO"
+            ],
+            "Number of Payments": [
+                "N\u00famero de Pagamentos"
+            ],
+            "Annual Interest Rate": [
+                "Taxa de juro anual"
+            ],
+            "Periodic Payment": [
+                "Pagamento peri\u00f3dico"
+            ],
+            "Loan Date": [
+                "Data do empr\u00e9stimo"
+            ],
+            "1st Payment Due": [
+                "1\u00ba Pagamento devido"
+            ],
+            "Payment Frequency": [
+                "Frequ\u00eancia de pagamento"
+            ],
+            "Last Payment Due": [
+                "\u00daltimo pagamento devido"
+            ],
+            "Total Interest Due": [
+                "Juros totais devidos"
+            ],
+            "Total All Payments": [
+                "Total de todos os pagamentos"
+            ],
+            "Year": [
+                "Ano"
+            ],
+            "Date": [
+                "Data"
+            ],
+            "Interest": [
+                "Interesse"
+            ],
+            "Principal": [
+                "Principal"
+            ],
+            "Balance": [
+                "Balan\u00e7o"
+            ],
+            "Calculation method: Normal": [
+                "M\u00e9todo de c\u00e1lculo: Normal"
+            ],
+            "Total Principal": [
+                "Total Principal"
+            ],
+            "Pct. of Total Payments": [
+                "Pct. de Pagamentos Totais"
+            ],
+            "Annual Principal and Interest Totals": [
+                "Principais e totais anuais de juros"
+            ],
+            "Accumulated Principal and Interest with Remaining Balance": [
+                "Principal acumulado e juros com saldo remanescente"
+            ],
+            "Total Principal and Interest": [
+                "Total Principal e Interesse"
+            ],
+            "Loan": [
+                "Empr\u00e9stimo"
+            ],
+            "There are too many unknown values.": [
+                "H\u00e1 demasiados valores desconhecidos."
+            ],
+            "Only one value may be \"0.\"": [
+                "Apenas um valor pode ser \"0\""
+            ],
+            "Enter \"Loan Amount\", \"Number of Payments\" and \"Annual Interest Rate\".": [
+                "Introduza \"Montante do empr\u00e9stimo\", \"N\u00famero de pagamentos\" e \"Taxa de juro anual\"."
+            ]
+        }
+    }
+}

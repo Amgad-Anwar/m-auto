@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc loan calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 07:35-0400\n"
+"PO-Revision-Date: 2021-09-25 07:54-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-loan-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.LOAN-WIDGET.js\n"
+
+#: en/calculator.gui.php:20 en/calculator.gui.php:22
+msgid "Loan Calculator"
+msgstr "Lainalaskuri"
+
+#: en/calculator.gui.php:42 en/calculator.gui.php:169 en/calculator.gui.php:287
+#: en/calculator.gui.php:405
+msgid "click for more features"
+msgstr "klikkaa lisää ominaisuuksia"
+
+#: en/calculator.gui.php:50 en/calculator.gui.php:174 en/calculator.gui.php:291
+#: en/calculator.gui.php:410
+msgid "Loan Amount?"
+msgstr "Lainan määrä?"
+
+#: en/calculator.gui.php:58 en/calculator.gui.php:182
+msgid "Months? (#)"
+msgstr "Kuukausia?"
+
+#: en/calculator.gui.php:66
+msgid "Rate?"
+msgstr "Vuosittainen korko?"
+
+#: en/calculator.gui.php:74 en/calculator.gui.php:315 en/calculator.gui.php:432
+msgid "Payment Method?"
+msgstr "Maksutapa?"
+
+#: en/calculator.gui.php:90
+msgid "Payment?"
+msgstr "Maksu"
+
+#: en/calculator.gui.php:97 en/calculator.gui.php:217 en/calculator.gui.php:334
+#: en/calculator.gui.php:451 js/interface.LOAN-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Korko yhteensä"
+
+#: en/calculator.gui.php:104 en/calculator.gui.php:224
+#: en/calculator.gui.php:341
+msgid "Total P & I"
+msgstr "P & I yhteensä"
+
+#: en/calculator.gui.php:117
+msgid "calculate"
+msgstr "Laske"
+
+#: en/calculator.gui.php:117
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:118
+msgid "clear"
+msgstr "pyyhi"
+
+#: en/calculator.gui.php:118
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:119
+msgid "print"
+msgstr "tulosta"
+
+#: en/calculator.gui.php:119
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:120
+msgid "help"
+msgstr "Ohje"
+
+#: en/calculator.gui.php:120
+msgid "H"
+msgstr "K"
+
+#: en/calculator.gui.php:123
+msgid "schedule"
+msgstr "Aikataulu"
+
+#: en/calculator.gui.php:123
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:124
+msgid "charts"
+msgstr "Kaaviot"
+
+#: en/calculator.gui.php:124
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:134 en/calculator.gui.php:253
+#: en/calculator.gui.php:367 en/calculator.gui.php:484
+msgid "click to change currency or date format"
+msgstr "klikkaa vaihtaaksesi valuuttaa tai päivämäärämuotoa"
+
+#: en/calculator.gui.php:142 en/calculator.gui.php:261
+#: en/calculator.gui.php:375 en/calculator.gui.php:491
+msgid "Make me smaller."
+msgstr "Tee minusta pienempi."
+
+#: en/calculator.gui.php:143 en/calculator.gui.php:262
+#: en/calculator.gui.php:376 en/calculator.gui.php:492
+msgid "Original Size"
+msgstr "Alkuperäinen koko"
+
+#: en/calculator.gui.php:144 en/calculator.gui.php:263
+#: en/calculator.gui.php:377 en/calculator.gui.php:493
+msgid "Make me larger."
+msgstr "Tee minusta suurempi."
+
+#: en/calculator.gui.php:190
+msgid "Interest Rate?"
+msgstr "Korko?"
+
+#: en/calculator.gui.php:198
+msgid "Pmt. Method?"
+msgstr "Pmt. Menetelmä?"
+
+#: en/calculator.gui.php:210 js/interface.LOAN-WIDGET.js:14
+msgid "Payment"
+msgstr "Maksu"
+
+#: en/calculator.gui.php:239 en/calculator.gui.php:353
+#: en/calculator.gui.php:471
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:240 en/calculator.gui.php:354
+#: en/calculator.gui.php:472
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#: en/calculator.gui.php:241 en/calculator.gui.php:355
+#: en/calculator.gui.php:473
+msgid "Print"
+msgstr "Tulosta"
+
+#: en/calculator.gui.php:242 en/calculator.gui.php:356
+#: en/calculator.gui.php:474
+msgid "Help"
+msgstr "Ohje"
+
+#: en/calculator.gui.php:245 en/calculator.gui.php:359
+msgid "Schedule"
+msgstr "Aikataulu"
+
+#: en/calculator.gui.php:246 en/calculator.gui.php:360
+#: en/calculator.gui.php:478
+msgid "Charts"
+msgstr "Kaaviot"
+
+#: en/calculator.gui.php:299
+msgid "Number of Months?"
+msgstr "Kuukausien määrä?"
+
+#: en/calculator.gui.php:307 en/calculator.gui.php:425
+msgid "Annual Interest Rate?"
+msgstr "Vuosittainen korko?"
+
+#: en/calculator.gui.php:327 en/calculator.gui.php:444
+msgid "Monthly Payment"
+msgstr "Kuukausimaksu"
+
+#: en/calculator.gui.php:417
+msgid "Number of Months? (#)"
+msgstr "Kuukausien määrä?"
+
+#: en/calculator.gui.php:458
+msgid "Total Principal & Interest"
+msgstr "Pääoma ja korot yhteensä"
+
+#: en/calculator.gui.php:477 js/interface.LOAN-WIDGET.js:14
+msgid "Payment Schedule"
+msgstr "Maksuaikataulu"
+
+#: en/calculator.gui.php:514
+msgid "Loan Calculator Help..."
+msgstr "Autolainan laskuri Apua"
+
+#: en/calculator.gui.php:516
+msgid ""
+"Using the calculator is straight forward. User enters a \"loan amount\", "
+"\"number of months\", \"annual interest rate\". The calculator calculates "
+"the number of monthly payments."
+msgstr ""
+"Laskimen käyttö on suoraviivaista. Käyttäjä syöttää \"lainasumman\", "
+"\"kuukausien määrän\" ja \"vuotuisen koron\". Laskin laskee kuukausimaksujen "
+"määrän."
+
+#: en/calculator.gui.php:517
+msgid ""
+"The \"Payment Method\" determines when the first payment is due. With the "
+"default selection, \"End-of-Period\", the first payment will be due one "
+"month after the loan is made. If \"Start-of-Period\" is selected, then the "
+"first payment will be due on the loan date."
+msgstr ""
+"Maksutapa määrittää, milloin ensimmäinen maksu erääntyy. Kun oletusvalinta "
+"on \"Loppuvuosi\", ensimmäinen maksu erääntyy kuukauden kuluttua lainan "
+"myöntämisestä. Jos valittuna on \"Jakson alku\", ensimmäinen maksu erääntyy "
+"lainapäivänä."
+
+#: en/calculator.gui.php:518
+msgid "The term (duration) of the loan is expressed as a number of months."
+msgstr "Laina-aika (kesto) ilmoitetaan kuukausina."
+
+#: en/calculator.gui.php:520
+msgid "60 months = &nbsp;5 years"
+msgstr "60 kuukautta = 5 vuotta"
+
+#: en/calculator.gui.php:521
+msgid "120 months = 10 years"
+msgstr "120 kuukautta = 10 vuotta"
+
+#: en/calculator.gui.php:522
+msgid "180 months = 15 years"
+msgstr "180 kuukautta = 15 vuotta"
+
+#: en/calculator.gui.php:523
+msgid "240 months = 20 years"
+msgstr "240 kuukautta = 20 vuotta"
+
+#: en/calculator.gui.php:524
+msgid "360 months = 30 years"
+msgstr "360 kuukautta = 30 vuotta"
+
+#: en/calculator.gui.php:526
+msgid ""
+"Need more options including the ability to solve for other unknowns, change "
+"payment / compounding frequency and the ability to print an amortization "
+"schedule? Please visit"
+msgstr ""
+"Tarvitsetko lisää vaihtoehtoja, kuten kykyä ratkaista muita tuntemattomia, "
+"muuttaa maksu- / korotustiheyttä ja kykyä tulostaa lyhennysaikataulu? Käy "
+"osoitteessa"
+
+#: en/calculator.gui.php:550
+msgid "Currency and Date Conventions"
+msgstr "Valuutta- ja päivämääräkäytännöt"
+
+#: en/calculator.gui.php:698
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Kaikki laskimet muistavat valintasi. Voit myös muuttaa sitä milloin tahansa."
+
+#: en/calculator.gui.php:699
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Jos napsautat <b>\"Tallenna muutokset</b> \", laskin latautuu uudelleen. "
+"Muokkauksesi menetetään."
+
+#: en/calculator.gui.php:702
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: en/calculator.gui.php:703
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: fc-loan-calculator.php:180
+msgid "Please enter a valid number for \"sc_loan_amt.\""
+msgstr "Kirjoita kelvollinen numero \"sc_loan_amt\" -kenttään."
+
+#: fc-loan-calculator.php:184
+msgid "Please enter a valid number for \"sc_n_months.\""
+msgstr "Syötä kelvollinen numero \"sc_n_months\" -kenttään."
+
+#: fc-loan-calculator.php:188
+msgid "Please enter a valid number for \"sc_rate.\""
+msgstr "Syötä kelvollinen numero \"sc_rate\" -kenttään."
+
+#: fc-loan-calculator.php:226 fc-loan-calculator.php:229
+#: fc-loan-calculator.php:232 fc-loan-calculator.php:502
+#: fc-loan-calculator.php:658 fc-loan-calculator.php:668
+msgid "No"
+msgstr "Ei"
+
+#: fc-loan-calculator.php:248
+msgid "Please enter a valid number for \"op_loan_amt.\""
+msgstr "Syötä kelvollinen numero \"op_loan_amt\" -kenttään."
+
+#: fc-loan-calculator.php:252
+msgid "Please enter a valid number for \"op_n_months.\""
+msgstr "Syötä kelvollinen luku \"op_n_months\" -kenttään."
+
+#: fc-loan-calculator.php:256
+msgid "Please enter a valid number for \"op_rate.\""
+msgstr "Syötä kelvollinen luku \"op_rate\" -kenttään."
+
+#: fc-loan-calculator.php:426
+msgid "Please enter a valid number for \"Default loan amount.\""
+msgstr "Kirjoita kelvollinen numero kohtaan \"Lainan oletussumma\""
+
+#: fc-loan-calculator.php:430
+msgid "Please enter a valid number for \"Default number of months:.\""
+msgstr "Kirjoita kelvollinen numero kohtaan \"Kuukausien oletusmäärä:\""
+
+#: fc-loan-calculator.php:434
+msgid "Please enter a valid number for \"Default interest rate.\""
+msgstr "Kirjoita kelvollinen numero kohtaan \"Oletuskorko\""
+
+#: fc-loan-calculator.php:439
+msgid "Please enter a valid value for \"Default Currency.\""
+msgstr "Kirjoita kelvollinen arvo kohtaan \"Oletusvaluutta\""
+
+#: fc-loan-calculator.php:443
+msgid "Please enter a valid number for \"Default Date Format.\""
+msgstr "Kirjoita kelvollinen numero kohtaan \"Päivämäärän oletusmuoto\""
+
+#: fc-loan-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Widgetin koko?"
+
+#: fc-loan-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Pieni (maksimileveys = 150px)"
+
+#: fc-loan-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Pieni (maksimileveys = 290px)"
+
+#: fc-loan-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Medium (maksimileveys = 340px)"
+
+#: fc-loan-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Suuri (maksimileveys = 440px)"
+
+#: fc-loan-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Lataa mukautettu tyylitiedosto?"
+
+#: fc-loan-calculator.php:503 fc-loan-calculator.php:659
+#: fc-loan-calculator.php:669
+msgid "Yes"
+msgstr "Kyllä"
+
+#: fc-loan-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Aseta oletusvaluutta?"
+
+#: fc-loan-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Käytä kävijän selaimen asetuksia valuutan asettamiseen - älä ohita niitä."
+
+#: fc-loan-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Aseta päivämäärämuoto?"
+
+#: fc-loan-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Käytä kävijän selaimen asetuksia päivämäärämuodon asettamiseen - älä ohita "
+"niitä."
+
+#: fc-loan-calculator.php:656
+msgid "Hide the resize buttons?:"
+msgstr "Piilota kokoa muuttavat painikkeet?"
+
+#: fc-loan-calculator.php:666
+msgid "Allow plugin to add a link to financial-calculators.com?:"
+msgstr "Salli plugin lisätä linkki financial-calculators.com?"
+
+#: fc-loan-calculator.php:678
+msgid "Add Your Brand Name:"
+msgstr "Lisää tuotemerkkisi nimi"
+
+#: fc-loan-calculator.php:682
+msgid "Default loan amount:"
+msgstr "Maksuhäiriölainan määrä"
+
+#: fc-loan-calculator.php:683
+msgid "Default number of months:"
+msgstr "Kuukausien oletusmäärä"
+
+#: fc-loan-calculator.php:686
+msgid "Default interest rate:"
+msgstr "Viivästyskorko"
+
+#: fc-loan-calculator.php:688
+msgid "Enter only digits.<br>No formatting."
+msgstr "Syötä vain numeroita.<br>Ei muotoilua."
+
+#: fc-loan-calculator.php:712
+msgid "Loan Calculator by financial-calculators.com"
+msgstr "Lainalaskuri by financial-calculators.com"
+
+#: fc-loan-calculator.php:714
+msgid "FC Loan Calculator"
+msgstr "FC Lainalaskuri"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "en"
+msgstr "en"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Käytä poistamiseen backspace-näppäintä."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Nuolinäppäimet vasemmalle, ylös ja alas ovat pois käytöstä. Samoin home-, "
+"end-, pgup- ja pgdn-näppäimet."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Käytä backspacea poistaaksesi."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Jos arvo on valittu, aloita uuden arvon kirjoittaminen tyhjentääksesi "
+"edellisen arvon."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Kun numero on valittu (arvo näkyy käänteisenä), voit poistaa valinnan "
+"oikealla nuolinäppäimellä tyhjentämättä arvoa. Muokkaa sitten "
+"selausnäppäimellä."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"VINKKI: Yleensä on parasta käyttää TAB- tai SHIFT-TAB-näppäimiä siirtyäksesi "
+"yhdestä syötteestä seuraavaan tai edelliseen syötteeseen."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"VINKKI 2: Yleensä arvon muokkaaminen on tehotonta. Koska arvot valitaan "
+"automaattisesti, kirjoita vain haluamasi luku."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Älä kirjoita tuhatta erotusmerkkiä."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Jos käytetään Yhdysvaltain käytäntöä, se olisi pilkku.)"
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Olen tarpeeksi fiksu syöttämään ne puolestasi!"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Tapahtui tuntematon päivämäärän laskentavirhe."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Ilmoita meille syötteesi ja asetuksesi, jotta voimme korjata tämän. Kiitos."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Päivämäärä ei ole voimassa - huono vuosi."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Jan"
+msgstr "Tammi"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Feb"
+msgstr "Helmi"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Mar"
+msgstr "Maalis"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Apr"
+msgstr "Huhti"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "May"
+msgstr "Toukokuu"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jun"
+msgstr "Kesä"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jul"
+msgstr "Heinä"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Aug"
+msgstr "Elo"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Sept"
+msgstr "Syys"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Oct"
+msgstr "Loka"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Nov"
+msgstr "Mar"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Dec"
+msgstr "Joulu"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Virhe: päivämäärät eivät ole järjestyksessä."
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Exception"
+msgstr "Poikkeus"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "tapahtui, kun käytettiin"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Invalid index"
+msgstr "Virheellinen indeksi"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Internal limit reached. Balance exceeds +/- 99 trillion."
+msgstr "Sisäinen raja saavutettu. Saldo ylittää +/- 99 biljoonaa."
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "YTD"
+msgstr "YTD"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Juoksevat kokonaissummat"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Normal"
+msgstr "Normaali"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Your Personalized Loan Schedule"
+msgstr "Henkilökohtainen laina-aikataulusi"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount decreased by"
+msgstr "Viimeisen maksun määrä väheni"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "due to rounding"
+msgstr "pyöristämisestä johtuen"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount increased by"
+msgstr "Viimeisimmän maksun määrä kasvoi"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Summary"
+msgstr "Autolainan yhteenveto"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Amount"
+msgstr "Lainan määrä"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Number of Payments"
+msgstr "Maksujen määrä"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Annual Interest Rate"
+msgstr "Vuotuinen korko"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Periodic Payment"
+msgstr "Jaksottainen maksu"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Date"
+msgstr "Lainan päivämäärä"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "1st Payment Due"
+msgstr "1. erääntynyt maksu"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Payment Frequency"
+msgstr "Maksutiheys"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Last Payment Due"
+msgstr "Viimeinen erääntynyt maksu"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total Interest Due"
+msgstr "Erääntyneet korot yhteensä"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total All Payments"
+msgstr "Kaikki maksut yhteensä"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Year"
+msgstr "Vuosi"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Interest"
+msgstr "Kiinnostuksen kohde"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Principal"
+msgstr "Kiinteä pääoma lainanmaksulaskuri"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Balance"
+msgstr "Saldo"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Calculation method: Normal"
+msgstr "Laskentamenetelmä: Normaali"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal"
+msgstr "Pääoma yhteensä"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Pct. of Total Payments"
+msgstr "Prosenttiosuus maksujen kokonaismäärästä"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Annual Principal and Interest Totals"
+msgstr "Vuotuinen pääoma ja korot yhteensä"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Accumulated Principal and Interest with Remaining Balance"
+msgstr "Kertynyt pääoma ja korko sekä jäljellä oleva saldo"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal and Interest"
+msgstr "Pääoma ja korot yhteensä"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Loan"
+msgstr "Autolainalaskuri | Autolainalaskuri | Ei lelu"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "There are too many unknown values."
+msgstr "Tuntemattomia arvoja on liikaa."
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid "Only one value may be \"0.\""
+msgstr "Vain yksi arvo voi olla \"0\""
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid ""
+"Enter \"Loan Amount\", \"Number of Payments\" and \"Annual Interest Rate\"."
+msgstr "Syötä \"Lainasumma\", \"Maksujen määrä\" ja \"Vuosikorko\"."

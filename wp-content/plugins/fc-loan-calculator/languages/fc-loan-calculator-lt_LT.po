@@ -1,0 +1,698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc loan calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 07:43-0400\n"
+"PO-Revision-Date: 2021-09-25 07:44-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n"
+"%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-loan-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.LOAN-WIDGET.js\n"
+
+#: en/calculator.gui.php:20 en/calculator.gui.php:22
+msgid "Loan Calculator"
+msgstr "Paskolos skaičiuoklė"
+
+#: en/calculator.gui.php:42 en/calculator.gui.php:169 en/calculator.gui.php:287
+#: en/calculator.gui.php:405
+msgid "click for more features"
+msgstr "spustelėkite, jei norite daugiau funkcijų"
+
+#: en/calculator.gui.php:50 en/calculator.gui.php:174 en/calculator.gui.php:291
+#: en/calculator.gui.php:410
+msgid "Loan Amount?"
+msgstr "Paskolos suma?"
+
+#: en/calculator.gui.php:58 en/calculator.gui.php:182
+msgid "Months? (#)"
+msgstr "Mėnesius? (#)"
+
+#: en/calculator.gui.php:66
+msgid "Rate?"
+msgstr "Įvertinti?"
+
+#: en/calculator.gui.php:74 en/calculator.gui.php:315 en/calculator.gui.php:432
+msgid "Payment Method?"
+msgstr "Mokėjimo būdas?"
+
+#: en/calculator.gui.php:90
+msgid "Payment?"
+msgstr "Apmokėjimas?"
+
+#: en/calculator.gui.php:97 en/calculator.gui.php:217 en/calculator.gui.php:334
+#: en/calculator.gui.php:451 js/interface.LOAN-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Iš viso palūkanų"
+
+#: en/calculator.gui.php:104 en/calculator.gui.php:224
+#: en/calculator.gui.php:341
+msgid "Total P & I"
+msgstr "Iš viso P ir I"
+
+#: en/calculator.gui.php:117
+msgid "calculate"
+msgstr "apskaičiuoti"
+
+#: en/calculator.gui.php:117
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:118
+msgid "clear"
+msgstr "išvalyti"
+
+#: en/calculator.gui.php:118
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:119
+msgid "print"
+msgstr "spausdinti"
+
+#: en/calculator.gui.php:119
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:120
+msgid "help"
+msgstr "pagalba"
+
+#: en/calculator.gui.php:120
+msgid "H"
+msgstr "A"
+
+#: en/calculator.gui.php:123
+msgid "schedule"
+msgstr "suplanuoti"
+
+#: en/calculator.gui.php:123
+msgid "S"
+msgstr "P"
+
+#: en/calculator.gui.php:124
+msgid "charts"
+msgstr "diagramos"
+
+#: en/calculator.gui.php:124
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:134 en/calculator.gui.php:253
+#: en/calculator.gui.php:367 en/calculator.gui.php:484
+msgid "click to change currency or date format"
+msgstr "spustelėkite , jei norite pakeisti valiutą arba datos formatą"
+
+#: en/calculator.gui.php:142 en/calculator.gui.php:261
+#: en/calculator.gui.php:375 en/calculator.gui.php:491
+msgid "Make me smaller."
+msgstr "Padarykite mane mažesnį."
+
+#: en/calculator.gui.php:143 en/calculator.gui.php:262
+#: en/calculator.gui.php:376 en/calculator.gui.php:492
+msgid "Original Size"
+msgstr "Originalus Dydis"
+
+#: en/calculator.gui.php:144 en/calculator.gui.php:263
+#: en/calculator.gui.php:377 en/calculator.gui.php:493
+msgid "Make me larger."
+msgstr "Padarykite mane didesnį."
+
+#: en/calculator.gui.php:190
+msgid "Interest Rate?"
+msgstr "Palūkanų norma?"
+
+#: en/calculator.gui.php:198
+msgid "Pmt. Method?"
+msgstr "Pmt. Metodas?"
+
+#: en/calculator.gui.php:210 js/interface.LOAN-WIDGET.js:14
+msgid "Payment"
+msgstr "Mokėjimas"
+
+#: en/calculator.gui.php:239 en/calculator.gui.php:353
+#: en/calculator.gui.php:471
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:240 en/calculator.gui.php:354
+#: en/calculator.gui.php:472
+msgid "Clear"
+msgstr "Išvalyti"
+
+#: en/calculator.gui.php:241 en/calculator.gui.php:355
+#: en/calculator.gui.php:473
+msgid "Print"
+msgstr "Spausdinti"
+
+#: en/calculator.gui.php:242 en/calculator.gui.php:356
+#: en/calculator.gui.php:474
+msgid "Help"
+msgstr "Pagalba"
+
+#: en/calculator.gui.php:245 en/calculator.gui.php:359
+msgid "Schedule"
+msgstr "Tvarkaraštis"
+
+#: en/calculator.gui.php:246 en/calculator.gui.php:360
+#: en/calculator.gui.php:478
+msgid "Charts"
+msgstr "Diagramos"
+
+#: en/calculator.gui.php:299
+msgid "Number of Months?"
+msgstr "Mėnesių skaičius?"
+
+#: en/calculator.gui.php:307 en/calculator.gui.php:425
+msgid "Annual Interest Rate?"
+msgstr "Metinė palūkanų norma?"
+
+#: en/calculator.gui.php:327 en/calculator.gui.php:444
+msgid "Monthly Payment"
+msgstr "Mėnesinis mokėjimas"
+
+#: en/calculator.gui.php:417
+msgid "Number of Months? (#)"
+msgstr "Mėnesių skaičius? (#)"
+
+#: en/calculator.gui.php:458
+msgid "Total Principal & Interest"
+msgstr "Iš viso pagrindinė suma ir palūkanos"
+
+#: en/calculator.gui.php:477 js/interface.LOAN-WIDGET.js:14
+msgid "Payment Schedule"
+msgstr "Mokėjimų grafikas"
+
+#: en/calculator.gui.php:514
+msgid "Loan Calculator Help..."
+msgstr "Paskolos skaičiuoklės pagalba..."
+
+#: en/calculator.gui.php:516
+msgid ""
+"Using the calculator is straight forward. User enters a \"loan amount\", "
+"\"number of months\", \"annual interest rate\". The calculator calculates "
+"the number of monthly payments."
+msgstr ""
+"Naudotis skaičiuotuvu paprasta. Naudotojas įveda \"paskolos sumą\", "
+"\"mėnesių skaičių\", \"metinę palūkanų normą\". Skaičiuoklė apskaičiuoja "
+"mėnesinių įmokų skaičių."
+
+#: en/calculator.gui.php:517
+msgid ""
+"The \"Payment Method\" determines when the first payment is due. With the "
+"default selection, \"End-of-Period\", the first payment will be due one "
+"month after the loan is made. If \"Start-of-Period\" is selected, then the "
+"first payment will be due on the loan date."
+msgstr ""
+"\"Mokėjimo būdas\" nustato, kada turi būti atliktas pirmasis mokėjimas. "
+"Pasirinkus numatytuosius nustatymus, t. y. \"Periodo pabaiga\", pirmasis "
+"mokėjimas bus mokamas praėjus mėnesiui po paskolos suteikimo. Pasirinkus "
+"\"Start-of-Period\" (Periodo pradžia), pirmasis mokėjimas bus mokamas "
+"paskolos suteikimo dieną."
+
+#: en/calculator.gui.php:518
+msgid "The term (duration) of the loan is expressed as a number of months."
+msgstr "Paskolos terminas (trukmė) išreiškiamas mėnesių skaičiumi."
+
+#: en/calculator.gui.php:520
+msgid "60 months = &nbsp;5 years"
+msgstr "60 mėnesių = 5 metai"
+
+#: en/calculator.gui.php:521
+msgid "120 months = 10 years"
+msgstr "120 mėnesių = 10 metų"
+
+#: en/calculator.gui.php:522
+msgid "180 months = 15 years"
+msgstr "180 mėnesių = 15 metų"
+
+#: en/calculator.gui.php:523
+msgid "240 months = 20 years"
+msgstr "240 mėnesių = 20 metų"
+
+#: en/calculator.gui.php:524
+msgid "360 months = 30 years"
+msgstr "360 mėnesių = 30 metų"
+
+#: en/calculator.gui.php:526
+msgid ""
+"Need more options including the ability to solve for other unknowns, change "
+"payment / compounding frequency and the ability to print an amortization "
+"schedule? Please visit"
+msgstr ""
+"Reikia daugiau parinkčių, įskaitant galimybę spręsti kitus nežinomuosius, "
+"keisti mokėjimo / kaupimo dažnį ir spausdinti amortizacijos grafiką? "
+"Apsilankykite"
+
+#: en/calculator.gui.php:550
+msgid "Currency and Date Conventions"
+msgstr "Valiutos ir datos konvencijos"
+
+#: en/calculator.gui.php:698
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Visos skaičiuoklės įsimins jūsų pasirinkimą. Jį taip pat galite bet kada "
+"pakeisti."
+
+#: en/calculator.gui.php:699
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Paspaudus <b>\"Išsaugoti pakeitimus\"</b>, skaičiuoklė bus įkelta iš naujo. "
+"Jūsų pakeitimai bus prarasti."
+
+#: en/calculator.gui.php:702
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: en/calculator.gui.php:703
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: fc-loan-calculator.php:180
+msgid "Please enter a valid number for \"sc_loan_amt.\""
+msgstr "Įveskite galiojantį skaičių \"sc_loan_amt\""
+
+#: fc-loan-calculator.php:184
+msgid "Please enter a valid number for \"sc_n_months.\""
+msgstr "Įveskite galiojantį skaičių \"sc_n_months\""
+
+#: fc-loan-calculator.php:188
+msgid "Please enter a valid number for \"sc_rate.\""
+msgstr "Įveskite galiojantį skaičių \"sc_rate\""
+
+#: fc-loan-calculator.php:226 fc-loan-calculator.php:229
+#: fc-loan-calculator.php:232 fc-loan-calculator.php:502
+#: fc-loan-calculator.php:658 fc-loan-calculator.php:668
+msgid "No"
+msgstr "Ne"
+
+#: fc-loan-calculator.php:248
+msgid "Please enter a valid number for \"op_loan_amt.\""
+msgstr "Įveskite galiojantį skaičių \"op_loan_amt\""
+
+#: fc-loan-calculator.php:252
+msgid "Please enter a valid number for \"op_n_months.\""
+msgstr "Įveskite galiojantį skaičių \"op_n_months\""
+
+#: fc-loan-calculator.php:256
+msgid "Please enter a valid number for \"op_rate.\""
+msgstr "Įveskite galiojantį skaičių \"op_rate\""
+
+#: fc-loan-calculator.php:426
+msgid "Please enter a valid number for \"Default loan amount.\""
+msgstr "Įveskite galiojantį skaičių \"Numatytoji paskolos suma\""
+
+#: fc-loan-calculator.php:430
+msgid "Please enter a valid number for \"Default number of months:.\""
+msgstr "Įveskite galiojantį skaičių \"Numatytasis mėnesių skaičius:\""
+
+#: fc-loan-calculator.php:434
+msgid "Please enter a valid number for \"Default interest rate.\""
+msgstr "Įveskite galiojantį skaičių \"Numatytoji palūkanų norma\""
+
+#: fc-loan-calculator.php:439
+msgid "Please enter a valid value for \"Default Currency.\""
+msgstr "Įveskite galiojančią \"Numatytoji valiuta\" reikšmę"
+
+#: fc-loan-calculator.php:443
+msgid "Please enter a valid number for \"Default Date Format.\""
+msgstr "Įveskite galiojantį skaičių \"Numatytojo datos formato\" laukelyje"
+
+#: fc-loan-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Valdiklio dydis?:"
+
+#: fc-loan-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Nedidelis (didžiausias plotis = 150px)"
+
+#: fc-loan-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Mažas (didžiausias plotis = 290px)"
+
+#: fc-loan-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Vidutinis (didžiausias plotis = 340 px)"
+
+#: fc-loan-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Didelis (didžiausias plotis = 440px)"
+
+#: fc-loan-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Įkelti pasirinktinį stiliaus lapą?:"
+
+#: fc-loan-calculator.php:503 fc-loan-calculator.php:659
+#: fc-loan-calculator.php:669
+msgid "Yes"
+msgstr "Taip"
+
+#: fc-loan-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Nustatyti numatytąją valiutą?:"
+
+#: fc-loan-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Naudokite lankytojo naršyklės nustatymus valiutai nustatyti - nepakeiskite "
+"jų."
+
+#: fc-loan-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Nustatyti datos formato konvenciją?:"
+
+#: fc-loan-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Naudokite lankytojo naršyklės nustatymus datos formatui nustatyti - "
+"nepakeiskite."
+
+#: fc-loan-calculator.php:656
+msgid "Hide the resize buttons?:"
+msgstr "Paslėpti dydžio keitimo mygtukus?:"
+
+#: fc-loan-calculator.php:666
+msgid "Allow plugin to add a link to financial-calculators.com?:"
+msgstr "Leisti įskiepiui pridėti nuorodą į financial-calculators.com?:"
+
+#: fc-loan-calculator.php:678
+msgid "Add Your Brand Name:"
+msgstr "Pridėti savo prekės ženklo pavadinimą:"
+
+#: fc-loan-calculator.php:682
+msgid "Default loan amount:"
+msgstr "Neįvykdytos paskolos suma:"
+
+#: fc-loan-calculator.php:683
+msgid "Default number of months:"
+msgstr "Numatytasis mėnesių skaičius:"
+
+#: fc-loan-calculator.php:686
+msgid "Default interest rate:"
+msgstr "Neįvykdytų įsipareigojimų palūkanų norma:"
+
+#: fc-loan-calculator.php:688
+msgid "Enter only digits.<br>No formatting."
+msgstr "Įveskite tik skaitmenis.<br>Jokio formatavimo."
+
+#: fc-loan-calculator.php:712
+msgid "Loan Calculator by financial-calculators.com"
+msgstr "Paskolos skaičiuoklė pagal financial-calculators.com"
+
+#: fc-loan-calculator.php:714
+msgid "FC Loan Calculator"
+msgstr "FC paskolos skaičiuoklė"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "en"
+msgstr "lt"
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Norėdami ištrinti, naudokite backspace klavišą."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Rodyklių klavišai į kairę, į viršų ir į apačią yra išjungti. Taip pat ir "
+"namų, pabaigos, pgup ir pgdn klavišai."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Norėdami ištrinti, naudokite backspace."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Jei pasirinkta reikšmė, tiesiog pradėkite rašyti naują reikšmę, kad "
+"ištrintumėte ankstesnę reikšmę."
+
+#: js/interface.LOAN-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Kai pasirinktas skaičius (reikšmė rodoma atvirkščiai), naudokite rodyklės į "
+"dešinę klavišą, kad panaikintumėte pasirinkimą, bet neišvalytumėte reikšmės. "
+"Tada backspace, kad galėtumėte redaguoti."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"PATARIMAS: Paprastai norint pereiti nuo vieno įvesties veiksmo prie kito ar "
+"ankstesnio, geriausia naudoti TAB arba SHIFT-TAB klavišus."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"2 PATARIMAS: Paprastai vertės redagavimas yra neveiksmingas. Kadangi "
+"reikšmės pasirenkamos automatiškai, tiesiog įveskite norimą skaičių."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Neįveskite tūkstančio skiriamojo ženklo."
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Jei naudojate JAV konvenciją, tai būtų kablelis.)"
+
+#: js/interface.LOAN-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Esu pakankamai protingas, kad įvesčiau juos už jus!"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Įvyko nežinomos datos skaičiavimo klaida."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Pateikite mums savo įvestis ir nustatymus, kad galėtume tai ištaisyti. Ačiū."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Data negalioja - blogi metai."
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Jan"
+msgstr "Sau"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Feb"
+msgstr "Vas"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Mar"
+msgstr "Kov"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "Apr"
+msgstr "Bal"
+
+#: js/interface.LOAN-WIDGET.js:10
+msgid "May"
+msgstr "Gegužė"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jun"
+msgstr "Bir"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Jul"
+msgstr "Lie"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Aug"
+msgstr "Rugp"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Sept"
+msgstr "Rugs"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Oct"
+msgstr "Spa"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Nov"
+msgstr "Lap"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Dec"
+msgstr "Gruo"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Klaida: datos ne iš eilės."
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Exception"
+msgstr "Išimtis"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "įvyko, kai buvo kreiptasi į"
+
+#: js/interface.LOAN-WIDGET.js:11
+msgid "Invalid index"
+msgstr "Netinkamas indeksas"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Internal limit reached. Balance exceeds +/- 99 trillion."
+msgstr "Pasiekta vidinė riba. Balansas viršija +/- 99 trilijonus."
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "YTD"
+msgstr "YTD"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Bėgančios sumos"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Normal"
+msgstr "Normalus"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Your Personalized Loan Schedule"
+msgstr "Jūsų asmeninis paskolos grafikas"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount decreased by"
+msgstr "Paskutinio mokėjimo suma sumažėjo"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "due to rounding"
+msgstr "dėl apvalinimo"
+
+#: js/interface.LOAN-WIDGET.js:12
+msgid "Last payment amount increased by"
+msgstr "Paskutinio mokėjimo suma padidinta"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Summary"
+msgstr "Paskolos santrauka"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Amount"
+msgstr "Paskolos suma"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Number of Payments"
+msgstr "Mokėjimų skaičius"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Annual Interest Rate"
+msgstr "Metinė palūkanų norma"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Periodic Payment"
+msgstr "Periodinis mokėjimas"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Loan Date"
+msgstr "Paskolos data"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "1st Payment Due"
+msgstr "1-asis mokėjimas"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Payment Frequency"
+msgstr "Mokėjimo dažnumas"
+
+#: js/interface.LOAN-WIDGET.js:13
+msgid "Last Payment Due"
+msgstr "Paskutinis mokėjimas"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total Interest Due"
+msgstr "Iš viso mokėtinų palūkanų"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Total All Payments"
+msgstr "Iš viso visi mokėjimai"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Year"
+msgstr "Metai"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Date"
+msgstr "Data"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Interest"
+msgstr "Palūkanos"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Principal"
+msgstr "Pagrindinis"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Balance"
+msgstr "Balansas"
+
+#: js/interface.LOAN-WIDGET.js:14
+msgid "Calculation method: Normal"
+msgstr "Apskaičiavimo metodas: Įprastas"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal"
+msgstr "Iš viso pagrindinė suma"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Pct. of Total Payments"
+msgstr "Visų mokėjimų dalis"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Annual Principal and Interest Totals"
+msgstr "Bendra metinė pagrindinės sumos ir palūkanų suma"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Accumulated Principal and Interest with Remaining Balance"
+msgstr "Sukaupta pagrindinė suma ir palūkanos su likusiu likučiu"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Total Principal and Interest"
+msgstr "Iš viso pagrindinė suma ir palūkanos"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "Loan"
+msgstr "Paskola"
+
+#: js/interface.LOAN-WIDGET.js:15
+msgid "There are too many unknown values."
+msgstr "Yra per daug nežinomų verčių."
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid "Only one value may be \"0.\""
+msgstr "Tik viena reikšmė gali būti \"0\""
+
+#: js/interface.LOAN-WIDGET.js:16
+msgid ""
+"Enter \"Loan Amount\", \"Number of Payments\" and \"Annual Interest Rate\"."
+msgstr ""
+"Įveskite \"Paskolos suma\", \"Mokėjimų skaičius\" ir \"Metinė palūkanų norma"
+"\"."
